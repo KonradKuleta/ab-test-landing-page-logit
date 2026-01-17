@@ -45,7 +45,7 @@ This case study shows an end-to-end A/B test workflow in Python: basic sanity ch
 └── reports/
     ├── ab_test_landing_page.html
     └── ab_test_landing_page.pdf
-
+---
 
 ## Method overview (high level)
 
