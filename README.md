@@ -29,20 +29,22 @@ This case study shows an end-to-end A/B test workflow in Python: basic sanity ch
 
 ## Repository structure
 
+```text
+.
 ├── assets/
-│ ├── 01_cr_overall_A_vs_B.png
-│ ├── 02_lift_pp_by_channel_B_minus_A.png
-│ ├── 03_logit_model1_unadjusted_summary.png
-│ ├── 04_logit_model2_channel_adjusted_summary.png
-│ └── 05_cr_by_channel_A_vs_B.png
+│   ├── 01_cr_overall_A_vs_B.png
+│   ├── 02_lift_pp_by_channel_B_minus_A.png
+│   ├── 03_logit_model1_unadjusted_summary.png
+│   ├── 04_logit_model2_channel_adjusted_summary.png
+│   └── 05_cr_by_channel_A_vs_B.png
 ├── data/
-│ └── ab_test_data.csv
+│   └── ab_test_data.csv
 ├── notebooks/
-│ ├── 00_data_generation.ipynb
-│ └── 01_ab_test_analysis.ipynb
+│   ├── 00_data_generation.ipynb
+│   └── 01_ab_test_analysis.ipynb
 └── reports/
-├── ab_test_landing_page.html
-└── ab_test_landing_page.pdf
+    ├── ab_test_landing_page.html
+    └── ab_test_landing_page.pdf
 
 
 ## Method overview (high level)
