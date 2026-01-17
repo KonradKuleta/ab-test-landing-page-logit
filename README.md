@@ -1,4 +1,4 @@
-# A/B Test: Landing Page Redesign + Logistic Regression (Python)
+# A/B Test: Landing Page Versions + Logistic Regression (Python)
 by Konrad Kuleta
 
 **Scenario:** E-commerce landing page test for new customers.  
@@ -45,7 +45,7 @@ This case study shows an end-to-end A/B test workflow in Python: basic sanity ch
 └── reports/
     ├── ab_test_landing_page.html
     └── ab_test_landing_page.pdf
----
+```
 
 ## Method overview (high level)
 
