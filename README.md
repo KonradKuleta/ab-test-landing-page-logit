@@ -26,7 +26,6 @@ This case study shows an end-to-end A/B test workflow in Python: basic sanity ch
 **Conversion rate by channel (A vs B)**
 ![CR by channel A vs B](assets/05_cr_by_channel_A_vs_B.png)
 
----
 
 ## Repository structure
 
@@ -45,9 +44,6 @@ This case study shows an end-to-end A/B test workflow in Python: basic sanity ch
 ├── ab_test_landing_page.html
 └── ab_test_landing_page.pdf
 
-
-
----
 
 ## Method overview (high level)
 
